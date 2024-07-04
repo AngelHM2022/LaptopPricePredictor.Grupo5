@@ -1,4 +1,3 @@
-python3.8 -m venv myenv
 import streamlit as st
 import pandas as pd
 import numpy as np
